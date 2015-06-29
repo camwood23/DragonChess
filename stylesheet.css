@@ -1,0 +1,7 @@
+/* This will make things look the same */
+div {
+    height: 100px;
+    width: 100px;
+    background-color: #FA6900;
+    border-radius: 5px;
+}
