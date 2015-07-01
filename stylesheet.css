@@ -1,4 +1,4 @@
-/* This will make things look the same */
+/* We use this to make different tags have all the same properties */
 div {
     height: 100px;
     width: 100px;
@@ -6,6 +6,7 @@ div {
     float: left;
 }
 
+/* You can add these IDs to any tags to make them have these properties */
 #sky {
     background-color: #0000FF;
 }

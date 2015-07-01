@@ -1,4 +1,4 @@
-//Put javascript/jquery code here
+//Put javascript code here that will design the layout of the board.
 function makeTable(id) {
     document.write("<table>");
     for (var i = 0; i < 8; i++) {
@@ -16,5 +16,5 @@ makeTable("ground");
 makeTable("subterrain");
 
 $(document).ready(function() {
-    //put dynamic code inside this function
+    //JQuery code goes inside of here to make the board dynamic.
 });
