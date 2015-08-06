@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+div {
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  float: left;
+  background-color: #0000FF;
+}
