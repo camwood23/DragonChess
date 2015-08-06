@@ -9,3 +9,4 @@ Make pieces movable.
 Implement rules for moving pieces.  
 Make layout of the boards look nice.  
 
+I want to make this in Node.js now... Eventually.
